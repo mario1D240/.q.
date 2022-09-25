@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ena.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+   <SubTexture name="Ena idle dance0000" x="110" y="20" width="350" height="416"/>
+   <SubTexture name="Ena idle dance0001" x="110" y="460" width="350" height="392"/>
+   <SubTexture name="Ena idle dance0002" x="110" y="900" width="350" height="416"/>
+	<SubTexture name="Ena idle dance0003" x="110" y="1320" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+   <SubTexture name="Ena idle dance0004" x="110" y="1800" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Ena idle dance0005" x="110" y="2200" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+   <SubTexture name="Ena idle dance0006" x="110" y="2644" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>	<SubTexture name="Ena idle dance0007" x="110" y="3100" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+   <SubTexture name="Ena idle dance0008" x="110" y="3530" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+   <SubTexture name="Ena idle dance0009" x="110" y="3970" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="Ena idle dance0010" x="110" y="4420" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>   <SubTexture name="Ena idle dance0011" x="110" y="4860" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+   <SubTexture name="Ena idle dance0012" x="110" y="5300" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+   <SubTexture name="Ena idle dance0013" x="110" y="5730" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="Ena idle dance0014" x="110" y="6170" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>   <SubTexture name="Ena idle dance0015" x="110" y="6600" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+   <SubTexture name="Ena idle dance0016" x="110" y="7050" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+   <SubTexture name="Ena idle dance0017" x="110" y="7480" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="Ena idle dance0018" x="110" y="7920" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+   <SubTexture name="Ena idle dance0019" x="110" y="8360" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+   <SubTexture name="Ena idle dance0020" x="110" y="8800" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+   <SubTexture name="Ena idle dance0021" x="110" y="9240" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="Ena idle dance0022" x="110" y="9677" width="350" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>       <SubTexture name="Ena idle dance0023" x="110" y="10109" width="350" height="416" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+   <SubTexture name="Ena idle dance0024" x="110" y="10531" width="350" height="392" frameX="1" frameY="0" frameWidth="411" frameHeight="412"/>
+</TextureAtlas>
